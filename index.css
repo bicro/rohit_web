@@ -1,0 +1,14 @@
+body{
+	margin:0px;
+	padding: 0px;
+}
+
+.titleBlock{
+	background-color: #000;
+	height: 333px;
+	width: 100%;
+}
+
+.title{
+	background-image: url("title1.png") 
+}
